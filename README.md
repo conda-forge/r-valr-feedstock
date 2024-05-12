@@ -3,6 +3,7 @@ About r-valr-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-valr-feedstock/blob/main/LICENSE.txt)
 
+
 About r-valr
 ------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/rnabioco/valr/, https://rnabioco.github.io/valr/
 Package license: MIT
 
 Summary: Read and manipulate genome intervals and signals. Provides functionality similar to command-line tool suites within R, enabling interactive analysis and visualization of genome-scale data. Riemondy et al. (2017) <doi:10.12688/f1000research.11997.1>.
+
 About r-valr
 ------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
